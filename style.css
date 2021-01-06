@@ -1,0 +1,14 @@
+
+    .blog{
+        border: 1px solid green;
+        border-radius: 20px;
+        margin: 1%;
+        width: 30%;
+        float: left;
+    }
+    h1{
+        text-align: center;
+    }
+    p{
+        text-align: justify;
+    }

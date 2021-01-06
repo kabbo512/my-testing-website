@@ -1,0 +1,15 @@
+<style>
+    .blog{
+        border: 1px solid green;
+        border-radius: 20px;
+        margin: 1%;
+        width: 30%;
+        display: inline-block;
+    }
+    h1{
+        text-align: center;
+    }
+    p{
+        text-align: justify;
+    }
+    </style>
